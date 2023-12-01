@@ -1,4 +1,4 @@
-model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize,brand,severe_problem,condition
+model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize,brand,passed_main_inspection,condition
  Golf,2016,9995,Manual,45642,Diesel,0,74.3,1.6,VW,0.0,3
  Q5,2019,47850,Semi-Auto,2666,Diesel,145,34.5,3.0,Audi,0.0,3
  E Class,2017,20700,Automatic,9150,Diesel,30,65.7,2.0,Mercedes,0.0,1
